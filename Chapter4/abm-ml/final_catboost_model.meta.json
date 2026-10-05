@@ -1,0 +1,22 @@
+{
+  "feature_order": [
+    "FBO type",
+    "Product type",
+    "Operation type",
+    "Former Inspection result",
+    "FBO Size",
+    "Inspection interval (days)"
+  ],
+  "categorical_features": [
+    "FBO type",
+    "Product type",
+    "Operation type",
+    "Former Inspection result",
+    "FBO Size"
+  ],
+  "target_mapping": {
+    "0": -1,
+    "1": 0,
+    "2": 1
+  }
+}

@@ -1,0 +1,15 @@
+# ABM and data
+mesa>=1.2.1,<2.0
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+matplotlib>=3.8,<4.0
+openpyxl>=3.1,<4.0
+
+# ML
+scikit-learn>=1.4,<2.0
+catboost>=1.2,<2.0
+optuna>=3.6,<4.0
+
+# Jupyter
+jupyterlab>=4.2,<5.0
+ipywidgets>=8.1,<9.0
